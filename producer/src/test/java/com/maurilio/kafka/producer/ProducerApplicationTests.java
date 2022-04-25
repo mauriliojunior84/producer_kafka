@@ -16,4 +16,9 @@ class ProducerApplicationTests {
 	void testeErro() {
 		assertTrue(false);
 	}
+	
+	@Test
+	void testeErroNovo() {
+		assertTrue(false);
+	}
 }

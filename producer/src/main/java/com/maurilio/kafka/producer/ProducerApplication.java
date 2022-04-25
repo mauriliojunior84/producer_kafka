@@ -8,9 +8,8 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 public class ProducerApplication {
 
 	
-	public static void main(String[] argss) {
-SpringApplication.run(ProducerApplication.class, argss);
-		
+	public static void main(String[] args) {
+		SpringApplication.run(ProducerApplication.class, args );
 	}
 
 }
